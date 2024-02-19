@@ -18,7 +18,7 @@ first_pen.write() #calling the method
 print(f"color of first pen is {first_pen.color1}")
 print(f"ID of first pen is {first_pen.id}")
 
-second_pen = Pen(id="sl-02")
+second_pen = Pen(id="ssl-02")
 print(f"color of second pen is {second_pen.color1}")
 print(f"ID of second pen is {first_pen.id}")
     
